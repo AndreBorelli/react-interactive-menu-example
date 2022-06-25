@@ -1,6 +1,6 @@
 # react-interactive-menu-example
-# react-projects-5-menu
-## React Projects Starter APP
+
+ 
  ## Exercise from John Smilga's course, where several simple React projects are taught.
     [https://www.youtube.com/watch?v=a_7Z7C_JCyo]
 
@@ -18,7 +18,7 @@
     
     Filter method;
 
-    Props;
+    Props.
     
 
     
@@ -30,6 +30,6 @@
 
    New CSS variables were created, changing the colors of the site, texts and buttons;
    
-   Changes in the price hover CSS configuration;
+   Changes in the price hover CSS configuration.
 
    
