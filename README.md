@@ -28,8 +28,8 @@
  
  ## Changes regarding the course design:
 
-   New CSS variables were created, changing the colors of the site, texts and buttons;
+    New CSS variables were created, changing the colors of the site, texts and buttons;
    
-   Changes in the price hover CSS configuration.
+    Changes in the price hover CSS configuration.
 
    
